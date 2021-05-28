@@ -1,5 +1,5 @@
 # project1
-The app name - Image Shower
+The app name - Shtorm Viewer
 This app show image by tapping on row.
 
 Skill which I've got expiriance in: 
