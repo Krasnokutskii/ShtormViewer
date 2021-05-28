@@ -2,7 +2,7 @@
 The app name - Image Shower
 This app show image by tapping on row.
 
-Skills I've got expiriance in: 
+Skill which I've got expiriance in: 
 - assert
 - GCD
 - FileManager
