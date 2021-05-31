@@ -17,7 +17,8 @@ class DetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //testing assert
+        
+        
         assert(selectedImage != nil, "selected imgage = nil")
         
         title = "Image \(imageIndex) of \(picturesNumber) "
