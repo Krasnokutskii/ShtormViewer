@@ -1,10 +1,22 @@
-# project1
-The app name - Shtorm Viewer This app show image by tapping on row.
+## Shtorm Viewer
 
-Skill which I've got expiriance in:
+## Tools to implement the project
+- GCD
+- FileManager
+- Multiple ViewControllers.
+- assert
+- UIItabelViewController
+ 
+ ## Project Screen Shots
+<img src="Screen2.png" width="200"> <img src="Screen1.png" width="200">
 
-assert
-GCD
-FileManager
-Multiple ViewControllers.
-This app just for developing skills.
+## More features soon
+- more pictures 
+- pictures customization
+  
+## Conclusion 
+It was first project which helped me to dive into UIKit and showed me how tabel view works. 
+Even though it was a basic app, it was chalanging for me and takes three days to finish. 
+I'm satisfied with work i've done and will return to make this up even more beautiful.
+
+
