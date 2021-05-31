@@ -1,12 +1,20 @@
-# project1
-The app name - Shtorm Viewer
-This app show image by tapping on row.
+## Shtorm Viewer
 
-Skill which I've got expiriance in: 
-- assert
+## Tools to implement the project
 - GCD
 - FileManager
 - Multiple ViewControllers.
+ 
+ ## Project Screen Shots
+<img src="Screen2.png" width="200"> <img src="Screen1.png" width="200">
 
-This app just for developing skills.
+## More features soon 
+- animation
+- more flags 
+- settings 
+  
+## Conclusion 
+It was interesting project which helped me to understand how works view in storyboard and code. 
+Even though it was a basic app, it was chalanging for me and takes two days to finish. 
+I'm satisfied with work i've done and will return to make this up even more beautiful.
 
