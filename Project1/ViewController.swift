@@ -30,7 +30,11 @@ class ViewController: UITableViewController {
                 }
             }
         }
-        pictures.sort()
+        
+        DispatchQueue.main.async { [weak self] in
+            self?.pictures.sort()
+            self?.tableView.reloadData()
+        }
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
