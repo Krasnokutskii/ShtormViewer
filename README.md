@@ -9,6 +9,8 @@
 - UIActivityViewController
 - @objc, target, action
 - #selector
+- UIImage
+- UIImageView
 - jpegData(CompressionQuality:)
 - info.plist
  
