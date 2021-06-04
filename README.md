@@ -23,13 +23,13 @@
 - pictures customization
   
 ## Supported devices
-iPhone 6S and 6S Plus.
-iPhone SE.
-iPhone 7 and 7 Plus.
-iPhone 8 and 8 Plus.
-iPhone X.
-iPhone XS, XS Max and XR.
-iPhone 11, 11 Pro and 11 Pro Max.
+iPhone 6S and 6S Plus.  
+iPhone SE.  
+iPhone 7 and 7 Plus.  
+iPhone 8 and 8 Plus.  
+iPhone X.  
+iPhone XS, XS Max and XR.  
+iPhone 11, 11 Pro and 11 Pro Max.  
 
 ## Conclusion 
 It was first project which helped me to dive into UIKit and showed me how tabel view works. 
