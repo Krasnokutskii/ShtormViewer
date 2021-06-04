@@ -1,6 +1,6 @@
 ## Shtorm Viewer
 
-## Tools to implement the project
+## Tools implemented in project
 - GCD
 - FileManager
 - Multiple ViewControllers.
