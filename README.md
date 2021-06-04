@@ -22,7 +22,7 @@
 - more pictures 
 - pictures customization
   
-##Supported devices
+## Supported devices
 iPhone 6S and 6S Plus.
 iPhone SE.
 iPhone 7 and 7 Plus.
