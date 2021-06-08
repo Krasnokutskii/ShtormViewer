@@ -35,8 +35,8 @@ iPhone XS, XS Max and XR.
 iPhone 11, 11 Pro and 11 Pro Max.  
 
 ## Conclusion 
-It was first project which helped me to dive into UIKit and showed me how tabel view works. 
-Even though it was a basic app, it was chalanging for me and takes three days to finish. 
+It was first project which helped me to dive into UIKit and showed me how tabel view works.   
+Even though it was a basic app, it was chalanging for me and takes three days to finish.   
 I'm satisfied with work i've done and will return to make this up even more beautiful.
 
 
