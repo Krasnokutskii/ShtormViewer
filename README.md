@@ -1,5 +1,5 @@
 ## Shtorm Viewer
-
+ Shows image by typing on row. 
 ## Tools implemented in project
 - GCD
 - FileManager
@@ -13,6 +13,9 @@
 - UIImageView
 - jpegData(CompressionQuality:)
 - info.plist
+- UserDefaults
+- Sorting
+- reloadData
  
  ## Project Screen Shots
  <img src="Screen1.png" width="200"> <img src="Screen3.png" width="200">
@@ -35,5 +38,6 @@ iPhone 11, 11 Pro and 11 Pro Max.
 It was first project which helped me to dive into UIKit and showed me how tabel view works. 
 Even though it was a basic app, it was chalanging for me and takes three days to finish. 
 I'm satisfied with work i've done and will return to make this up even more beautiful.
+
 
 
