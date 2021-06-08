@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D42AFD6D2601B9F0001BD964 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42AFD6C2601B9F0001BD964 /* DetailViewController.swift */; };
+		D473221B266FC445003A24DB /* Picture.swift in Sources */ = {isa = PBXBuildFile; fileRef = D473221A266FC445003A24DB /* Picture.swift */; };
 		D48DE165260074EA000BC7A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48DE164260074EA000BC7A7 /* AppDelegate.swift */; };
 		D48DE167260074EA000BC7A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48DE166260074EA000BC7A7 /* SceneDelegate.swift */; };
 		D48DE169260074EA000BC7A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48DE168260074EA000BC7A7 /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		D42AFD6C2601B9F0001BD964 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D473221A266FC445003A24DB /* Picture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picture.swift; sourceTree = "<group>"; };
 		D48DE161260074EA000BC7A7 /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D48DE164260074EA000BC7A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D48DE166260074EA000BC7A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				D48DE164260074EA000BC7A7 /* AppDelegate.swift */,
 				D48DE166260074EA000BC7A7 /* SceneDelegate.swift */,
 				D48DE168260074EA000BC7A7 /* ViewController.swift */,
+				D473221A266FC445003A24DB /* Picture.swift */,
 				D42AFD6C2601B9F0001BD964 /* DetailViewController.swift */,
 				D48DE16A260074EA000BC7A7 /* Main.storyboard */,
 				D48DE16D260074EE000BC7A7 /* Assets.xcassets */,
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D48DE169260074EA000BC7A7 /* ViewController.swift in Sources */,
+				D473221B266FC445003A24DB /* Picture.swift in Sources */,
 				D48DE165260074EA000BC7A7 /* AppDelegate.swift in Sources */,
 				D48DE167260074EA000BC7A7 /* SceneDelegate.swift in Sources */,
 				D42AFD6D2601B9F0001BD964 /* DetailViewController.swift in Sources */,
